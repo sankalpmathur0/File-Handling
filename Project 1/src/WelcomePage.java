@@ -38,7 +38,7 @@ try {
 		Options p=new Options();
 		Scanner sc=new Scanner(System.in);
         System.out.println("Choose from the options: ");
-        System.out.println("1 . Show All availble Files");
+        System.out.println("1 . Show All available Files");
         System.out.println("2 . Add,Delete and Search Files");
         System.out.println("3 . Exit");
       
@@ -152,7 +152,7 @@ public static void Submenu() {
 			System.out.println("Welcome to the Page");
 			 System.out.println("****************************************************************");
 	         System.out.println("*************************** LockedME.com  ********************");
-	         System.out.println("**********************      Tushar Mathur      ************************");
+	         System.out.println("**********************      Sankalp Mathur    ************************");
 	         System.out.println("****************************************************************");
 	         System.out.println();
 		     System.out.println("File Directory : UserInputz");
